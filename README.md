@@ -19,7 +19,7 @@ http://local_ip:5001/webui
 
 ## Getting Help
 
-If you're having any problem, please [raise an issue](https://gitlab.com/coletivo-coolab/ipfs-balena/ipfs-fleet/-/issues/new?issue%5Bmilestone_id%5D=) on GitLab and we will be happy to help.
+If you're having any problem, please [raise an issue](https://github.com/brunovianna/ipfs-fleet/issues/new) on GitHub and we will be happy to help.
 
 
 ## License
