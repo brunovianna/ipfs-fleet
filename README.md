@@ -10,5 +10,5 @@ For more info see: https://docs.ipfs.io/introduction/overview/
 ## How to use this fleet
 
 The IPFS API will be exposed on local network:
-http://<local fleet ip>:5001/webui
+http://local_ip:5001/webui
 
