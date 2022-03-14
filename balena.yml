@@ -1,5 +1,6 @@
 
 name: IPFS
+joinable: false
 type: sw.application
 description: >-
   Host and distribute files using IPFS, the interplanetary file system
