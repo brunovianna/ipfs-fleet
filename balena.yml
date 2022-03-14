@@ -1,0 +1,22 @@
+
+name: IPFS
+type: sw.application
+description: >-
+  Host and distribute files using IPFS, the interplanetary file system
+  https://ipfs.io/
+assets:
+  repository:
+    type: blob.asset
+    data:
+      url: 'https://gitlab.com/coletivo-coolab/ipfs-balena/ipfs-fleet'
+  logo:
+    type: blob.asset
+    data:
+      url: >-
+        https://gitlab.com/coletivo-coolab/ipfs-balena/ipfs-fleet/-/raw/main/assets/log.png
+data:
+  defaultDeviceType: raspberrypi3-64
+  supportedDeviceTypes:
+    - raspberrypi4-64
+    - bananapi-m1-plus
+version: 0.1.0
