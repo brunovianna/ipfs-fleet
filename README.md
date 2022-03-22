@@ -16,6 +16,12 @@ http://local_ip:5001/webui
 
 [![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://gitlab.com/coletivo-coolab/ipfs-balena/ipfs-fleet)
 
+## Pushing locally
+You need to get the code from the submodule go-ipfs with
+```bash
+git submodule init
+git submodule update
+```
 
 ## Getting Help
 
